@@ -1,0 +1,38 @@
+[
+  {
+    "id": "a-commit",
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/JokeTrue/technopark-prep-c-cpp/commit/a45eed8c75033445ffe5710c70017732db18a2de\"><strong>a</strong>45eed8c75033445ffe5710c70017732db18a2de</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/a-commit.png?raw=true"
+  },
+  {
+    "id": "morning-commits",
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/JokeTrue/otus-golang/commit/da944ff7c80efb7e28b8b91de244a0f41f70f482\">da944ff</a>\n- <a href=\"https://github.com/JokeTrue/anna-test/commit/4a336113ddeaea9432d7de7f2762f883b39a7349\">4a33611</a>\n- <a href=\"https://github.com/JokeTrue/anna-test/commit/2c5cf6201c203a7228750b980a6fa0f3dd2489e4\">2c5cf62</a>\n- <a href=\"https://github.com/JokeTrue/screenshot-bot/commit/1d2d5cf6a71904ac901d837ca7176a6b270ca8d4\">1d2d5cf</a>\n- <a href=\"https://github.com/JokeTrue/technopark-prep-c-cpp/commit/838dc6618347d24ef93df86acd9571a451148489\">838dc66</a>\n- <a href=\"https://github.com/JokeTrue/technopark-prep-c-cpp/commit/be17749bba8d9b7f184c0d3cbd1dd4f730faac07\">be17749</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/morning-commits.png?raw=true"
+  },
+  {
+    "id": "evening-commits",
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/JokeTrue/otus-algo/commit/fd32dc070aa25c1b13d8a7e681c45e54196b3d93\">fd32dc0</a>\n- <a href=\"https://github.com/JokeTrue/otus-algo/commit/9eb06ddb7788189804f5c618f5c17bb00569c5da\">9eb06dd</a>\n- <a href=\"https://github.com/JokeTrue/otus-algo/commit/f07cf7dab978895fd0333e444b224c72e97e53c9\">f07cf7d</a>\n- <a href=\"https://github.com/JokeTrue/otus-algo/commit/12846b994185be1727090f9ce3cadf52617093da\">12846b9</a>\n- <a href=\"https://github.com/JokeTrue/otus-algo/commit/64e1a84d4ecdacf20921c2a17625c9d1db810391\">64e1a84</a>\n- <a href=\"https://github.com/JokeTrue/otus-algo/commit/7693fda94b7dc7914926f46bbb4e9f48ba96809f\">7693fda</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/evening-commits.png?raw=true"
+  },
+  {
+    "id": "mass-delete-commit",
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/JokeTrue/technopark-prep-c-cpp/commit/f7d59ef94ff48b4bd406a0d31ae1308939c41041\">f7d59ef</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/mass-delete-commit/mass-delete-commit.png?raw=true"
+  },
+  {
+    "id": "mass-delete-commit-10k",
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/JokeTrue/technopark-prep-c-cpp/commit/f7d59ef94ff48b4bd406a0d31ae1308939c41041\">f7d59ef</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/mass-delete-commit/mass-delete-commit-10k.png?raw=true"
+  },
+  {
+    "id": "fix-2",
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/JokeTrue/anna-test/commit/7c055f2053ea2d9dea187912272ec1772c0fa2bc\">7c055f2</a>: Fix\n- <a href=\"https://github.com/JokeTrue/anna-test/commit/d96dce524904b9275581c364891d511d9dd1a839\">d96dce5</a>: Fixes",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/fix-commit/fix-2.png?raw=true"
+  }
+]
