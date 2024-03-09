@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/JokeTrue/otus-algo/commit/fd32dc070aa25c1b13d8a7e681c45e54196b3d93">fd32dc0</a>
-- <a href="https://github.com/JokeTrue/otus-algo/commit/9eb06ddb7788189804f5c618f5c17bb00569c5da">9eb06dd</a>
-- <a href="https://github.com/JokeTrue/otus-algo/commit/f07cf7dab978895fd0333e444b224c72e97e53c9">f07cf7d</a>
-- <a href="https://github.com/JokeTrue/otus-algo/commit/12846b994185be1727090f9ce3cadf52617093da">12846b9</a>
-- <a href="https://github.com/JokeTrue/otus-algo/commit/64e1a84d4ecdacf20921c2a17625c9d1db810391">64e1a84</a>
-- <a href="https://github.com/JokeTrue/otus-algo/commit/7693fda94b7dc7914926f46bbb4e9f48ba96809f">7693fda</a>
+- <a href="https://github.com/JokeTrue/otus-algo/commit/433007d278b87fa53faca71db7cceeb031c0f778">433007d</a>
+- <a href="https://github.com/JokeTrue/my-arts/commit/759f9b698850280f52b27eced50d1eee7cee24ca">759f9b6</a>
+- <a href="https://github.com/JokeTrue/my-arts/commit/2f52f3470503be91eea6ae878939c7d0aa717241">2f52f34</a>
+- <a href="https://github.com/JokeTrue/my-arts/commit/1c280f1051cba0da779c311ff280dbad3a627054">1c280f1</a>
+- <a href="https://github.com/JokeTrue/my-arts/commit/8c8ad53ee00d00a02faf472dfa616b6bf86ad07d">8c8ad53</a>
+- <a href="https://github.com/JokeTrue/my-arts/commit/ddd56e03b3686d55263923a51d8a24ea294a1c29">ddd56e0</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
